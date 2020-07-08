@@ -1,0 +1,18 @@
+{
+  "name": "techstack",
+  "version": "0.1.0",
+  "description": "List of programming languages, frameworks, libraries and other tools used by developers and companies.",
+  "keywords": [
+    "language",
+    "languages",
+    "frameworks",
+    "libraries",
+    "tech",
+    "stack"
+  ],
+  "repository": "https://github.com/Shiroi-shi/techstack.git",
+  "homepage": "https://aurelientoussaint.me/",
+  "author": "Aurélien Toussaint <neginoyami@gmail.com>",
+  "license": "MIT",
+  "main": "index.js"
+}
