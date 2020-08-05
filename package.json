@@ -1,17 +1,22 @@
 {
   "name": "techstack",
-  "version": "0.1.0",
+  "version": "0.5.0",
   "description": "List of programming languages, frameworks, libraries and other tools used by developers and companies.",
   "keywords": [
+    "programming",
     "language",
     "languages",
     "frameworks",
+    "library",
     "libraries",
     "tech",
-    "stack"
+    "technologies",
+    "stack",
+    "list",
+    "logo"
   ],
   "repository": "https://github.com/Shiroi-shi/techstack.git",
-  "homepage": "https://aurelientoussaint.me/",
+  "homepage": "https://github.com/Shiroi-shi/techstack#readme",
   "author": "Aurélien Toussaint <neginoyami@gmail.com>",
   "license": "MIT",
   "main": "index.js"
