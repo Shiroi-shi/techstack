@@ -2606,5 +2606,5 @@
     "slug": "zsh-zshell",
     "description": "An interactive login shell, command interpreter and scripting language.",
     "type": "Tool"
-  },
+  }
 ]

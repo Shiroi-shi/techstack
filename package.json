@@ -1,8 +1,9 @@
 {
   "name": "@shiroi-shi/techstack",
-  "version": "0.5.0",
-  "description": "List of programming languages, frameworks, libraries and other tools used by developers and companies.",
+  "version": "1.0.1",
+  "description": "List of programming languages, frameworks, libraries and other tools used by developers and companies with the name, logo, description and type.",
   "keywords": [
+    "prog",
     "programming",
     "language",
     "languages",
@@ -15,7 +16,10 @@
     "list",
     "techstack",
     "technologies stack",
-    "logo"
+    "logo",
+    "dev",
+    "techstack",
+    "stacktech"
   ],
   "repository": "https://github.com/Shiroi-shi/techstack.git",
   "homepage": "https://github.com/Shiroi-shi/techstack#readme",
