@@ -1,0 +1,13 @@
+<svg id="draw.id" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 126 63">
+	<defs>
+		<linearGradient id="L0010010006441a51001002a0845100.grad" x1="0%" y1="0%" x2="100%" y2="100%">
+			<stop offset="0%" stop-color="#6441a5" stop-opacity="1" />
+			<stop offset="100%" stop-color="#2a0845" stop-opacity="1" />
+		</linearGradient>
+	</defs>
+	<g>
+		<text fill="url(#L0010010006441a51001002a0845100.grad)" font-family="sans-serif" fill-opacity="1" font-size="60px" x="0" y="45">
+				{&lt;/&gt;}
+		</text>
+	</g>
+</svg>

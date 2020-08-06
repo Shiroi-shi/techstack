@@ -1,5 +1,5 @@
 {
-  "name": "techstack",
+  "name": "@shiroi-shi/techstack",
   "version": "0.5.0",
   "description": "List of programming languages, frameworks, libraries and other tools used by developers and companies.",
   "keywords": [
@@ -13,6 +13,8 @@
     "technologies",
     "stack",
     "list",
+    "techstack",
+    "technologies stack",
     "logo"
   ],
   "repository": "https://github.com/Shiroi-shi/techstack.git",
