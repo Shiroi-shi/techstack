@@ -1,4 +1,6 @@
-# techstack
+<p align="center"><img src="https://raw.githubusercontent.com/Shiroi-shi/techstack/master/data/logos/techstack.svg" alt="techstack logo" data-canonical-src="https://raw.githubusercontent.com/Shiroi-shi/techstack/master/data/logos/techstack.svg" width="200" height="100" /></p>
+
+# Techstack
 List of programming languages, frameworks, libraries and other tools used by developers and companies with the name, logo, description and type.
 
 ### Work in progress
