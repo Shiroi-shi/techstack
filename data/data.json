@@ -405,7 +405,7 @@
     "logo": "https://cdn.jsdelivr.net/npm/@shiroi-shi/techstack/data/logos/cakephp.svg",
     "slug": "cakephp",
     "description": "CakePHP makes building web applications simpler, faster, while requiring less code. A modern PHP 7 framework offering a flexible database access layer and a powerful scaffolding system.",
-    "type": "Framework",
+    "type": "Framework"
   },
   {
     "name": "CentOS",
