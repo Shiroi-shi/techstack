@@ -400,6 +400,14 @@
     "type": "Tool"
   },
   {
+    "name": "CakePHP",
+    "website": "https://cakephp.org/",
+    "logo": "https://cdn.jsdelivr.net/npm/@shiroi-shi/techstack/data/logos/cakephp.svg",
+    "slug": "cakephp",
+    "description": "CakePHP makes building web applications simpler, faster, while requiring less code. A modern PHP 7 framework offering a flexible database access layer and a powerful scaffolding system.",
+    "type": "Framework",
+  },
+  {
     "name": "CentOS",
     "website": "https://www.centos.org/",
     "logo": "https://cdn.jsdelivr.net/npm/@shiroi-shi/techstack/data/logos/centos.svg",
@@ -2104,6 +2112,14 @@
     "type": "Language"
   },
   {
+    "name": "Symfony",
+    "website": "https://symfony.com/",
+    "logo": "https://cdn.jsdelivr.net/npm/@shiroi-shi/techstack/data/logos/symfony.svg",
+    "slug": "symfony",
+    "description": "It is written with speed and flexibility in mind. It allows developers to build better and easy to maintain websites with PHP.",
+    "type": "Framework"
+  },
+  {
     "name": "Tailwind CSS",
     "website": "https://tailwindcss.com",
     "logo": "https://cdn.jsdelivr.net/npm/@shiroi-shi/techstack/data/logos/tailwind-css.svg",
@@ -2120,7 +2136,7 @@
     "type": "Tool"
   },
   {
-    "name": "techstack",
+    "name": "Techstack",
     "website": "https://github.com/Shiroi-shi/techstack",
     "logo": "https://cdn.jsdelivr.net/npm/@shiroi-shi/techstack/data/logos/techstack.svg",
     "slug": "techstack",
@@ -2389,6 +2405,14 @@
     "logo": "https://cdn.jsdelivr.net/npm/@shiroi-shi/techstack/data/logos/webpack.svg",
     "slug": "webpack",
     "description": "A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows to load parts for the application on demand. Through \"loaders\" modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.",
+    "type": "Tool"
+  },
+  {
+    "name": "Windev",
+    "website": "https://www.windev.com/",
+    "logo": "https://cdn.jsdelivr.net/npm/@shiroi-shi/techstack/data/logos/windev.svg",
+    "slug": "windev",
+    "description": "WINDEV allows you, via its full integration, its legendary ease and its advanced technology, to easily develop major projects in Windows, Linux, .NET, Java and much more! (full compatibility with Web, Mobile, Android, iOS, ...)",
     "type": "Tool"
   },
   {
