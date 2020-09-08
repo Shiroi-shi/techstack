@@ -1296,7 +1296,7 @@
     "type": "Language"
   },
   {
-    "name": "Let\"s Encrypt",
+    "name": "Let's Encrypt",
     "website": "https://letsencrypt.org",
     "logo": "https://cdn.jsdelivr.net/npm/@shiroi-shi/techstack/data/logos/lets-encrypt.svg",
     "slug": "lets-encrypt",
