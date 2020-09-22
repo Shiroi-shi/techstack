@@ -1280,6 +1280,14 @@
     "type": "Framework"
   },
   {
+    "name": "Laminas",
+    "website": "https://getlaminas.org/",
+    "logo": "https://cdn.jsdelivr.net/npm/@shiroi-shi/techstack/data/logos/laminas.svg",
+    "slug": "laminas",
+    "description": "Laminas Project, the enterprise-ready PHP Framework and components. A community-supported, open source continuation of Zend Framework.",
+    "type": "Framework"
+  },
+  {
     "name": "Leaflet",
     "website": "https://leafletjs.com/",
     "logo": "https://cdn.jsdelivr.net/npm/@shiroi-shi/techstack/data/logos/leaflet.svg",
@@ -2590,6 +2598,14 @@
     "slug": "zendesk",
     "description": "Zendesk provides an integrated on-demand helpdesk - customer support portal solution based on the latest Web 2.0 technologies and design philosophies.",
     "type": "Tool"
+  },
+  {
+    "name": "Zend Framework",
+    "website": "https://framework.zend.com/",
+    "logo": "https://cdn.jsdelivr.net/npm/@shiroi-shi/techstack/data/logos/zend-framework.svg",
+    "slug": "zend-framework",
+    "description": "It is an open source framework for developing web applications and services using PHP 5.3+. It uses 100% object-oriented code and utilizes most of the new features of namely namespaces, late static binding, lambda functions and closures.",
+    "type": "Framework"
   },
   {
     "name": "Zeplin",
